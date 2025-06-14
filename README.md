@@ -81,3 +81,15 @@ IntelliJ の Maven 設定を「Work offline」にする	IntelliJ が勝手に依
 
 Spring Boot DevTools なども含めておく	ランタイム依存も事前に含める
 ```
+
+## setting.xml
+```
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+https://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+<offline>true</offline>
+
+</settings>
+```
