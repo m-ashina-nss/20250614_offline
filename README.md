@@ -93,3 +93,7 @@ https://maven.apache.org/xsd/settings-1.0.0.xsd">
 
 </settings>
 ```
+
+https://archive.apache.org/dist/maven/maven-3/3.9.9/binaries/
+
+https://archive.apache.org/dist/maven/maven-3/3.8.2/binaries/
